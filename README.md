@@ -1,7 +1,7 @@
 # supreme-chainsaw
 Falloween a tootorail
-## About the ropository Master
-The repository Master is the worst student the warld has ever sin. A completely derailed person, with diffuse objectives, a disordered main, with purposeless intrincate paths in it.
+## About the repository Master
+The repository Master is the worst student the warld has ever sin. A completely derailed person, with diffuse objectives, a disordered mind, with purposeless intrincate paths in it.
 ## About the reasons of this repository extant
 This repository came to existance to fullfill the purposes of:
 1. Fallow a tootorail on how to use Git and GitHub.
